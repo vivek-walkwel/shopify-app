@@ -1,0 +1,36 @@
+[27-Dec-2016 08:13:25 UTC] PHP Notice:  Undefined index: storeid in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 15
+[27-Dec-2016 08:13:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 17
+[27-Dec-2016 08:13:25 UTC] PHP Notice:  Undefined index: storeid in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 26
+[27-Dec-2016 08:26:31 UTC] PHP Notice:  Undefined index: storeid in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 15
+[27-Dec-2016 08:26:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 17
+[27-Dec-2016 08:26:31 UTC] PHP Notice:  Undefined index: storeid in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 26
+[31-Dec-2016 04:34:52 UTC] PHP Notice:  Undefined index: storeid in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 15
+[31-Dec-2016 04:34:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 17
+[31-Dec-2016 04:34:52 UTC] PHP Notice:  Undefined index: storeid in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 26
+[31-Dec-2016 04:34:57 UTC] PHP Notice:  Undefined index: storeid in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 15
+[31-Dec-2016 04:34:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 17
+[31-Dec-2016 04:34:57 UTC] PHP Notice:  Undefined index: storeid in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 26
+[31-Dec-2016 04:34:59 UTC] PHP Notice:  Undefined index: storeid in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 15
+[31-Dec-2016 04:34:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 17
+[31-Dec-2016 04:34:59 UTC] PHP Notice:  Undefined index: storeid in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 26
+[31-Dec-2016 04:36:45 UTC] PHP Notice:  Undefined index: storeid in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 15
+[31-Dec-2016 04:36:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 17
+[31-Dec-2016 04:36:45 UTC] PHP Notice:  Undefined index: storeid in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 26
+[05-Jan-2017 03:27:39 UTC] PHP Notice:  Undefined index: storeid in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 15
+[05-Jan-2017 03:27:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 17
+[05-Jan-2017 03:27:39 UTC] PHP Notice:  Undefined index: storeid in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 26
+[11-Jan-2017 14:07:43 UTC] PHP Notice:  Undefined index: storeid in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 15
+[11-Jan-2017 14:07:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 17
+[11-Jan-2017 14:07:43 UTC] PHP Notice:  Undefined index: storeid in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 26
+[14-Jan-2017 03:02:14 UTC] PHP Notice:  Undefined index: storeid in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 15
+[14-Jan-2017 03:02:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 17
+[14-Jan-2017 03:02:14 UTC] PHP Notice:  Undefined index: storeid in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 26
+[14-Jan-2017 03:02:15 UTC] PHP Notice:  Undefined index: storeid in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 15
+[14-Jan-2017 03:02:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 17
+[14-Jan-2017 03:02:15 UTC] PHP Notice:  Undefined index: storeid in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 26
+[14-Jan-2017 03:02:19 UTC] PHP Notice:  Undefined index: storeid in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 15
+[14-Jan-2017 03:02:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 17
+[14-Jan-2017 03:02:19 UTC] PHP Notice:  Undefined index: storeid in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 26
+[14-Jan-2017 03:02:25 UTC] PHP Notice:  Undefined index: storeid in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 15
+[14-Jan-2017 03:02:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 17
+[14-Jan-2017 03:02:25 UTC] PHP Notice:  Undefined index: storeid in /home/tarceaw/public_html/pixiflexapp.com/scripts/pixel-script.php on line 26

@@ -1,0 +1,92 @@
+/*------------------------
+-------CUSTOM CSS---------
+-------------------------*/
+body {
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.72222;
+    color: #34495e;
+    background-color: #ffffff;
+}
+/*.container {
+    width: 1170px;
+    float: left;
+    margin-left: 15px;
+}*/
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: inherit;
+    font-weight: 700;
+    line-height: 1.1;
+    color: inherit;
+}
+.fb-pixel-form{
+    overflow: hidden;
+    margin:0;
+}
+.fb-pixel-form > div {
+	padding: 0;
+}
+.fb-pixel-form h2 {
+    font-size: 20px;
+    margin-top: 6px;
+    font-weight: 700;
+    margin-right: 1%;
+}
+.border-box {
+    border: 1px solid rgba(0, 0, 0, 0.11);
+    padding: 25px;
+    margin: 30px auto 5px;
+}
+.fb-pixel-form .input-sm {
+    height: 44px;
+    padding: 5px 10px;
+    font-size: 14px;
+    line-height: 16px;
+    border-radius: 0;
+    box-shadow: none;
+}
+.fb-pixel-form > div > h2 {
+	width: 30%;
+	float:left;
+}
+.fb-pixel-form > div > input {
+	width: 54%;
+	float:left;
+}
+.fb-pixel-form > div > button {
+    width: 14%;
+    float: right;
+    display: block;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 22px;
+}
+.btn-primary, .btn-primary:hover, .btn-primary.hover, 
+.btn-primary:focus, .btn-primary:active, .btn-primary.active, 
+.open > .dropdown-toggle.btn-primary, .btn-primary:focus:hover {
+    color: #ffffff;
+    background-color: #48c9b0;
+    border-color: #48c9b0;
+    box-shadow: none;
+    outline: 0;
+}
+.btn-primary:hover, .btn-primary.hover, 
+.btn-primary:focus, .btn-primary:active, .btn-primary.active, 
+.open > .dropdown-toggle.btn-primary, .btn-primary:focus:hover {
+    opacity: 0.9;
+}
+.table>thead>tr>th {
+	padding: 16px;
+}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td {
+	padding-left:16px;
+	padding-right:16px;
+}
+.btn-outline-custom{
+    background: transparent;
+    color: #48c9b0;
+}
+.table>tbody>tr>td {
+	font-size: 14px;
+}
